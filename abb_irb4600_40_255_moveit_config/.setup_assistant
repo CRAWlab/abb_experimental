@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: abb_irb4600_support
+    relative_path: urdf/irb4600_40_255.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/abb_irb4600_40_255.srdf
+  CONFIG:
+    author_name: Joshua Vaughan
+    author_email: vaughanje@ornl.gov
+    generated_timestamp: 1590179289
